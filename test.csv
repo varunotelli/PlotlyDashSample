@@ -1,0 +1,18 @@
+id,outcome,correlation
+External factors 1,Combined outcomes,0.1
+External factors 2,Investor-specific outcomes,0.2
+External factors 1,Investor-specific outcomes 1,0.1
+External factors 1,Customer-specific outcomes 2,0.15
+External factors 5,Investor-specific outcomes,0.2
+External factors 6,Investor-specific outcomes,0.2
+New factor,Combined outcomes,0.4
+new1,Combined outcomes,0.3
+new 2,Combined outcomes,0.7
+new 4,Combined outcomes,0.3
+new 4,Investor specific outcomes,-0.9
+new 4,Investor specific outcomes,-0.9
+new 4,Investor specific outcomes,0.3
+new 4,Investor specific outcomes4,0.3
+New factor,Old outcome,0.5
+New factor,Old outcome,-0.6
+New,old 4,0.7

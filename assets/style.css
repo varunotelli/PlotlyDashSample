@@ -1,0 +1,19 @@
+html,body {
+    
+}
+
+
+/* Trick */
+body{ 
+  display:flex; 
+  flex-direction:column; 
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+  right:0;
+  left: 0;
+  text-align: center;
+
+}
